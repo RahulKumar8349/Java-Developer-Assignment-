@@ -1,0 +1,76 @@
+ERROR	2023-07-12 19:18:12,426	0	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+ERROR	2023-07-12 19:20:15,192	122766	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+ERROR	2023-07-12 19:20:29,284	136858	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+FATAL	2023-07-12 19:23:23,976	311550	com.api.DiatozAssignmentApplication	[restartedMain]	Pringting fatal to logger
+ERROR	2023-07-12 19:23:23,977	311551	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+FATAL	2023-07-12 19:24:02,529	350103	com.api.DiatozAssignmentApplication	[restartedMain]	Pringting fatal to logger
+ERROR	2023-07-12 19:24:02,529	350103	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+FATAL	2023-07-12 19:25:39,286	446860	com.api.DiatozAssignmentApplication	[restartedMain]	Pringting fatal to logger
+ERROR	2023-07-12 19:25:39,287	446861	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+FATAL	2023-07-12 19:26:13,731	481305	com.api.DiatozAssignmentApplication	[restartedMain]	Pringting fatal to logger
+ERROR	2023-07-12 19:26:13,731	481305	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+FATAL	2023-07-12 19:26:43,030	510604	com.api.DiatozAssignmentApplication	[restartedMain]	Pringting fatal to logger
+ERROR	2023-07-12 19:26:43,030	510604	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+FATAL	2023-07-12 19:28:17,483	605057	com.api.DiatozAssignmentApplication	[restartedMain]	Pringting fatal to logger
+ERROR	2023-07-12 19:28:17,483	605057	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+FATAL	2023-07-12 19:29:31,685	679259	com.api.DiatozAssignmentApplication	[restartedMain]	Pringting fatal to logger
+ERROR	2023-07-12 19:29:31,685	679259	com.api.DiatozAssignmentApplication	[restartedMain]	Printing error to logger
+ERROR	2023-07-12 19:31:35,110	802684	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:31:35,110	802684	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+ERROR	2023-07-12 19:32:56,457	884031	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:32:56,457	884031	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+ERROR	2023-07-12 19:37:53,570	1181144	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:37:53,571	1181145	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+ERROR	2023-07-12 19:40:55,675	1363249	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:40:55,675	1363249	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+ERROR	2023-07-12 19:41:11,663	1379237	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:41:11,664	1379238	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+ERROR	2023-07-12 19:41:24,545	1392119	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:41:24,545	1392119	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+WARN	2023-07-12 19:43:14,801	1502375	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+TRACE	2023-07-12 19:45:03,816	1611390	com.api.DiatozAssignmentApplication	[restartedMain]	Trace Message!
+DEBUG	2023-07-12 19:45:03,816	1611390	com.api.DiatozAssignmentApplication	[restartedMain]	Debug Message!
+INFO	2023-07-12 19:45:03,817	1611391	com.api.DiatozAssignmentApplication	[restartedMain]	Info Message!
+WARN	2023-07-12 19:45:03,817	1611391	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+TRACE	2023-07-12 19:45:45,551	1653125	com.api.DiatozAssignmentApplication	[restartedMain]	Trace Message!
+DEBUG	2023-07-12 19:45:45,551	1653125	com.api.DiatozAssignmentApplication	[restartedMain]	Debug Message!
+INFO	2023-07-12 19:45:45,551	1653125	com.api.DiatozAssignmentApplication	[restartedMain]	Info Message!
+WARN	2023-07-12 19:45:45,551	1653125	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+ERROR	2023-07-12 19:45:45,551	1653125	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:45:45,551	1653125	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+TRACE	2023-07-12 19:48:27,823	1815397	com.api.DiatozAssignmentApplication	[restartedMain]	Trace Message!
+DEBUG	2023-07-12 19:48:27,823	1815397	com.api.DiatozAssignmentApplication	[restartedMain]	Debug Message!
+INFO	2023-07-12 19:48:27,823	1815397	com.api.DiatozAssignmentApplication	[restartedMain]	Info Message!
+WARN	2023-07-12 19:48:27,823	1815397	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+ERROR	2023-07-12 19:48:27,823	1815397	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:48:27,824	1815398	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+TRACE	2023-07-12 19:48:57,201	1844775	com.api.DiatozAssignmentApplication	[restartedMain]	Trace Message!
+DEBUG	2023-07-12 19:48:57,202	1844776	com.api.DiatozAssignmentApplication	[restartedMain]	Debug Message!
+INFO	2023-07-12 19:48:57,202	1844776	com.api.DiatozAssignmentApplication	[restartedMain]	Info Message!
+WARN	2023-07-12 19:48:57,202	1844776	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+ERROR	2023-07-12 19:48:57,202	1844776	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:48:57,202	1844776	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+TRACE	2023-07-12 19:52:41,195	2068769	com.api.DiatozAssignmentApplication	[restartedMain]	Trace Message!
+DEBUG	2023-07-12 19:52:41,195	2068769	com.api.DiatozAssignmentApplication	[restartedMain]	Debug Message!
+INFO	2023-07-12 19:52:41,195	2068769	com.api.DiatozAssignmentApplication	[restartedMain]	Info Message!
+WARN	2023-07-12 19:52:41,195	2068769	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+ERROR	2023-07-12 19:52:41,195	2068769	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 19:52:41,196	2068770	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+TRACE	2023-07-12 20:09:05,430	0	com.api.DiatozAssignmentApplication	[restartedMain]	Trace Message!
+DEBUG	2023-07-12 20:09:05,431	1	com.api.DiatozAssignmentApplication	[restartedMain]	Debug Message!
+INFO	2023-07-12 20:09:05,431	1	com.api.DiatozAssignmentApplication	[restartedMain]	Info Message!
+WARN	2023-07-12 20:09:05,432	2	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+ERROR	2023-07-12 20:09:05,433	3	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 20:09:05,433	3	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+TRACE	2023-07-12 20:29:52,023	1246593	com.api.DiatozAssignmentApplication	[restartedMain]	Trace Message!
+DEBUG	2023-07-12 20:29:52,024	1246594	com.api.DiatozAssignmentApplication	[restartedMain]	Debug Message!
+INFO	2023-07-12 20:29:52,024	1246594	com.api.DiatozAssignmentApplication	[restartedMain]	Info Message!
+WARN	2023-07-12 20:29:52,024	1246594	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+ERROR	2023-07-12 20:29:52,025	1246595	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 20:29:52,025	1246595	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!
+TRACE	2023-07-12 20:33:04,545	1439115	com.api.DiatozAssignmentApplication	[restartedMain]	Trace Message!
+DEBUG	2023-07-12 20:33:04,545	1439115	com.api.DiatozAssignmentApplication	[restartedMain]	Debug Message!
+INFO	2023-07-12 20:33:04,545	1439115	com.api.DiatozAssignmentApplication	[restartedMain]	Info Message!
+WARN	2023-07-12 20:33:04,545	1439115	com.api.DiatozAssignmentApplication	[restartedMain]	Warn Message!
+ERROR	2023-07-12 20:33:04,546	1439116	com.api.DiatozAssignmentApplication	[restartedMain]	Error Message!
+FATAL	2023-07-12 20:33:04,546	1439116	com.api.DiatozAssignmentApplication	[restartedMain]	Fatal Message!

@@ -1,0 +1,194 @@
+2023-07-14 12:13:24,210 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:13:24,221 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:13:24,224 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:13:24,316 INFO  DeferredLog:250 - [] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-14 12:13:24,317 INFO  DeferredLog:250 - [] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-14 12:13:26,106 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:13:26,121 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:13:26,122 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:13:26,220 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:13:26,220 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 1902 ms
+2023-07-14 12:13:26,837 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: f0213b50-99ce-453e-8ad8-39f3534eaa4e
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:13:27,077 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@1c4e5274, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@37838dce, org.springframework.security.web.context.SecurityContextHolderFilter@3abd57e1, org.springframework.security.web.header.HeaderWriterFilter@35bd6668, org.springframework.security.web.csrf.CsrfFilter@1273f9cf, org.springframework.security.web.authentication.logout.LogoutFilter@49a213ef, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@33107544, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@5289c71d, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6643d3c6, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1cf6e219, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@60c7745a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@18a6b49e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@63d06e7f, org.springframework.security.web.access.ExceptionTranslationFilter@573a5219, org.springframework.security.web.access.intercept.AuthorizationFilter@61900f72]
+2023-07-14 12:13:27,165 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:13:27,242 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:13:27,255 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 3.727 seconds (process running for 4.502)
+2023-07-14 12:21:57,702 INFO  DirectJDKLog:173 - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-14 12:21:57,705 INFO  FrameworkServlet:532 - [] Initializing Servlet 'dispatcherServlet'
+2023-07-14 12:21:57,708 INFO  FrameworkServlet:554 - [] Completed initialization in 3 ms
+2023-07-14 12:24:26,555 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2023-07-14 12:24:26,607 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-07-14 12:24:26,609 INFO  DirectJDKLog:173 - [] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-07-14 12:24:26,720 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:24:26,720 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:24:26,721 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:24:27,031 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:24:27,032 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:24:27,033 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:24:27,059 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:24:27,060 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 335 ms
+2023-07-14 12:24:27,206 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: caeecd3f-d5b2-4970-8191-8ca1ac2e6939
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:24:27,215 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@1321713e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6e391010, org.springframework.security.web.context.SecurityContextHolderFilter@7d82ab93, org.springframework.security.web.header.HeaderWriterFilter@180a0ddd, org.springframework.security.web.csrf.CsrfFilter@449c3a41, org.springframework.security.web.authentication.logout.LogoutFilter@4ea2ffd2, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@46d61480, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@30296c6c, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@18bd6b43, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1f532fe7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@58e9d850, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7885e244, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1e9753a4, org.springframework.security.web.access.ExceptionTranslationFilter@1ea7dd74, org.springframework.security.web.access.intercept.AuthorizationFilter@62d3e6cc]
+2023-07-14 12:24:27,229 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:24:27,240 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:24:27,247 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 0.563 seconds (process running for 664.495)
+2023-07-14 12:24:27,251 INFO  ConditionEvaluationDeltaLoggingListener:63 - [] Condition evaluation unchanged
+2023-07-14 12:25:06,618 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2023-07-14 12:25:06,640 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-07-14 12:25:06,744 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:25:06,745 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:25:06,745 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:25:07,302 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:25:07,303 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:25:07,304 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:25:07,342 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:25:07,343 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 593 ms
+2023-07-14 12:25:07,507 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: 70ea8a8c-e343-4c02-8ad2-87b595e39011
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:25:07,539 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@4e87e817, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6313c09d, org.springframework.security.web.context.SecurityContextHolderFilter@536cc2e4, org.springframework.security.web.header.HeaderWriterFilter@403b1e34, org.springframework.security.web.csrf.CsrfFilter@20ce4b6, org.springframework.security.web.authentication.logout.LogoutFilter@7ae268c3, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6c871074, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@7c9411ea, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@37c3783b, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5cad957, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3620a56b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@644679e8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@64900ff5, org.springframework.security.web.access.ExceptionTranslationFilter@5b8136b9, org.springframework.security.web.access.intercept.AuthorizationFilter@71fb9852]
+2023-07-14 12:25:07,574 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:25:07,597 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:25:07,601 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 0.9 seconds (process running for 704.849)
+2023-07-14 12:25:07,603 INFO  ConditionEvaluationDeltaLoggingListener:63 - [] Condition evaluation unchanged
+2023-07-14 12:25:31,392 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 9 class path changes (0 additions, 0 deletions, 9 modifications)
+2023-07-14 12:25:31,420 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-07-14 12:25:31,557 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:25:31,557 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:25:31,558 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:25:32,054 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:25:32,057 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:25:32,058 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:25:32,090 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:25:32,090 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 522 ms
+2023-07-14 12:25:32,244 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: ef40c64a-efa9-42f7-9013-cbb8f2512b4a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:25:32,258 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@27fa378d, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1a3d45c3, org.springframework.security.web.context.SecurityContextHolderFilter@5665fa22, org.springframework.security.web.header.HeaderWriterFilter@72c977bf, org.springframework.security.web.csrf.CsrfFilter@7e16cd81, org.springframework.security.web.authentication.logout.LogoutFilter@146d188c, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6f4855c0, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@49aefcc8, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@3776e511, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@131d99dd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1e575faa, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@706319f4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@485a4153, org.springframework.security.web.access.ExceptionTranslationFilter@58e6d79b, org.springframework.security.web.access.intercept.AuthorizationFilter@425fe4bd]
+2023-07-14 12:25:32,281 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:25:32,294 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:25:32,301 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 0.817 seconds (process running for 729.548)
+2023-07-14 12:25:32,303 INFO  ConditionEvaluationDeltaLoggingListener:63 - [] Condition evaluation unchanged
+2023-07-14 12:27:40,925 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-07-14 12:27:41,072 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-07-14 12:27:41,478 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:27:41,479 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:27:41,480 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:27:41,828 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:27:41,829 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:27:41,830 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:27:41,854 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:27:41,855 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 371 ms
+2023-07-14 12:27:42,011 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: b4ceca7b-b2fa-4bfe-9ba4-87847c37a56a
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:27:42,025 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@73e52e79, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3ac1eca, org.springframework.security.web.context.SecurityContextHolderFilter@1323bc74, org.springframework.security.web.header.HeaderWriterFilter@4583d12f, org.springframework.security.web.csrf.CsrfFilter@3c477465, org.springframework.security.web.authentication.logout.LogoutFilter@18c5f747, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@44604ac5, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@26e1591, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@45dc5a18, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@73a8f2c1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@14c01629, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@593fad30, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@71568698, org.springframework.security.web.access.ExceptionTranslationFilter@3beecb9a, org.springframework.security.web.access.intercept.AuthorizationFilter@4e87d7d8]
+2023-07-14 12:27:42,043 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:27:42,053 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:27:42,059 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 0.757 seconds (process running for 859.307)
+2023-07-14 12:27:42,061 INFO  ConditionEvaluationDeltaLoggingListener:63 - [] Condition evaluation unchanged
+2023-07-14 12:55:28,196 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-07-14 12:55:28,232 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-07-14 12:55:28,382 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:55:28,383 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:55:28,383 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:55:28,730 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:55:28,731 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:55:28,732 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:55:28,847 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:55:28,847 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 459 ms
+2023-07-14 12:55:28,958 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: ad988b47-e002-4fa3-b15b-ef20393a7b03
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:55:28,977 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@3cdcd4ba, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@243d7844, org.springframework.security.web.context.SecurityContextHolderFilter@4c0c4f9f, org.springframework.security.web.header.HeaderWriterFilter@5fa496d2, org.springframework.security.web.csrf.CsrfFilter@4411adc4, org.springframework.security.web.authentication.logout.LogoutFilter@68392a74, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6aa1e8d2, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@16affccc, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@413ff369, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@4b6a1578, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@53aa457, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6dc6f5a0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5ae5efe3, org.springframework.security.web.access.ExceptionTranslationFilter@2f78fd85, org.springframework.security.web.access.intercept.AuthorizationFilter@5b287a27]
+2023-07-14 12:55:28,992 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:55:29,003 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:55:29,011 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 0.672 seconds (process running for 2526.259)
+2023-07-14 12:55:29,013 INFO  ConditionEvaluationDeltaLoggingListener:63 - [] Condition evaluation unchanged
+2023-07-14 12:56:43,249 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-07-14 12:56:43,276 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-07-14 12:56:43,413 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:56:43,413 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:56:43,414 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:56:44,498 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:56:44,500 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:56:44,501 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:56:44,542 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:56:44,542 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 1123 ms
+2023-07-14 12:56:44,661 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: edb45889-56b0-43ea-9fe3-07e90d80988f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:56:44,672 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@1f632dce, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2cb77c8a, org.springframework.security.web.context.SecurityContextHolderFilter@2051d51a, org.springframework.security.web.header.HeaderWriterFilter@2c42dc4c, org.springframework.security.web.csrf.CsrfFilter@23adac3a, org.springframework.security.web.authentication.logout.LogoutFilter@7fa594a, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2de11ddc, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@5c01b818, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@99d9b3d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@78842123, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6e537156, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@661bb82b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@50493e14, org.springframework.security.web.access.ExceptionTranslationFilter@24259cb3, org.springframework.security.web.access.intercept.AuthorizationFilter@6d8bdd9d]
+2023-07-14 12:56:44,690 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:56:44,704 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:56:44,708 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 1.342 seconds (process running for 2601.956)
+2023-07-14 12:56:44,711 INFO  ConditionEvaluationDeltaLoggingListener:63 - [] Condition evaluation unchanged
+2023-07-14 12:56:59,528 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-07-14 12:56:59,549 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-07-14 12:56:59,704 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:56:59,747 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:56:59,836 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:57:00,566 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:57:00,571 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:57:00,572 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:57:00,631 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:57:00,632 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 765 ms
+2023-07-14 12:57:00,764 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: fa0a5f70-7246-40fb-a315-92089f36ef9b
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:57:00,775 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@82c080b, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2e15196f, org.springframework.security.web.context.SecurityContextHolderFilter@64f8e3b, org.springframework.security.web.header.HeaderWriterFilter@5f9a351b, org.springframework.security.web.csrf.CsrfFilter@3e1001de, org.springframework.security.web.authentication.logout.LogoutFilter@4d315a11, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@32f8ffce, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@74575560, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@5be695ec, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@755eca52, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@38ef61dd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7aeb95cb, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5869d898, org.springframework.security.web.access.ExceptionTranslationFilter@1cebd5ae, org.springframework.security.web.access.intercept.AuthorizationFilter@25e06ffe]
+2023-07-14 12:57:00,788 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:57:00,799 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:57:00,807 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 1.214 seconds (process running for 2618.054)
+2023-07-14 12:57:00,809 INFO  ConditionEvaluationDeltaLoggingListener:63 - [] Condition evaluation unchanged
+2023-07-14 12:57:45,392 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-07-14 12:57:45,410 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
+2023-07-14 12:57:45,540 INFO  StartupInfoLogger:51 - [] Starting DiatozAssignmentApplication using Java 17.0.7 with PID 4516 (C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment\target\classes started by Rahul in C:\Users\Rahul\Documents\workspace-spring-tool-suite-4-4.19.0.RELEASE\DiatozAssignment)
+2023-07-14 12:57:45,541 DEBUG StartupInfoLogger:52 - [] Running with Spring Boot v3.1.1, Spring v6.0.10
+2023-07-14 12:57:45,542 INFO  SpringApplication:634 - [] No active profile set, falling back to 1 default profile: "default"
+2023-07-14 12:57:45,909 INFO  TomcatWebServer:108 - [] Tomcat initialized with port(s): 8080 (http)
+2023-07-14 12:57:45,910 INFO  DirectJDKLog:173 - [] Starting service [Tomcat]
+2023-07-14 12:57:45,911 INFO  DirectJDKLog:173 - [] Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-14 12:57:45,960 INFO  DirectJDKLog:173 - [] Initializing Spring embedded WebApplicationContext
+2023-07-14 12:57:45,961 INFO  ServletWebServerApplicationContext:291 - [] Root WebApplicationContext: initialization completed in 416 ms
+2023-07-14 12:57:46,060 WARN  UserDetailsServiceAutoConfiguration:87 - [] 
+
+Using generated security password: c2b1c748-56fa-4bf8-93ee-612dab78eb92
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+2023-07-14 12:57:46,069 INFO  DefaultSecurityFilterChain:54 - [] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@243d5e5f, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7e81fad7, org.springframework.security.web.context.SecurityContextHolderFilter@3fb04b73, org.springframework.security.web.header.HeaderWriterFilter@59c2a59a, org.springframework.security.web.csrf.CsrfFilter@70460536, org.springframework.security.web.authentication.logout.LogoutFilter@6c1e502, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@30f31c80, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@38bb43a8, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@56beee9b, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@39131669, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7f1f8606, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7419c6c4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@773f0a7b, org.springframework.security.web.access.ExceptionTranslationFilter@5d5adae3, org.springframework.security.web.access.intercept.AuthorizationFilter@5e108ec9]
+2023-07-14 12:57:46,080 INFO  OptionalLiveReloadServer:59 - [] LiveReload server is running on port 35729
+2023-07-14 12:57:46,103 INFO  TomcatWebServer:220 - [] Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-14 12:57:46,106 INFO  StartupInfoLogger:57 - [] Started DiatozAssignmentApplication in 0.623 seconds (process running for 2663.354)
+2023-07-14 12:57:46,109 INFO  ConditionEvaluationDeltaLoggingListener:63 - [] Condition evaluation unchanged
+2023-07-14 13:02:48,826 INFO  LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211 - [] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-07-14 13:02:48,865 INFO  DirectJDKLog:173 - [] Stopping service [Tomcat]
